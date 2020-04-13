@@ -1,0 +1,719 @@
+SubProcess	Locus	Class
+ATP synthase	ACIAD0178	B
+ATP synthase	ACIAD0180	A
+ATP synthase	ACIAD0182	A
+ATP synthase	ACIAD0183	A
+ATP synthase	ACIAD0184	A
+ATP synthase	ACIAD0185	A
+ATP synthase	ACIAD0186	A
+ATP synthase	ACIAD0187	A
+ATP synthase	ACIAD0188	A
+ATP synthase	ACIAD0556	B
+ATP synthase	ACIAD1105	B
+ATP synthase	ACIAD3324	B
+NADH dehydrogenase	ACIAD0730	A
+NADH dehydrogenase	ACIAD0731	A
+NADH dehydrogenase	ACIAD0733	A
+NADH dehydrogenase	ACIAD0734	A
+NADH dehydrogenase	ACIAD0735	A
+NADH dehydrogenase	ACIAD0736	A
+NADH dehydrogenase	ACIAD0737	A
+NADH dehydrogenase	ACIAD0738	A
+NADH dehydrogenase	ACIAD0739	A
+NADH dehydrogenase	ACIAD0740	A
+NADH dehydrogenase	ACIAD0741	A
+NADH dehydrogenase	ACIAD0742	A
+NADH dehydrogenase	ACIAD0743	A
+Cytochrome oxidase	ACIAD2425	A
+Cytochrome oxidase	ACIAD2426	A
+Cytochrome oxidase	ACIAD2427	A
+Cytochrome oxidase	ACIAD2428	A
+Cytochrome oxidase	ACIAD2429	A
+Other energy production	ACIAD0239	B
+Other energy production	ACIAD1680	B
+Other energy production	ACIAD1749	B
+Other energy production	ACIAD1750	B
+Other energy production	ACIAD2291	B
+Other energy production	aciad229_	B
+Other energy production	ACIAD2654	B
+Other energy production	ACIAD2655	B
+Other energy production	ACIAD3259	B
+Redox factors	ACIAD0436	B
+Redox factors	ACIAD0747	A
+Redox factors	ACIAD0890	A
+Redox factors	ACIAD1065	B
+Redox factors	ACIAD1066	B
+Redox factors	ACIAD1232	A
+Redox factors	ACIAD1398	A
+Redox factors	ACIAD1498	A
+Redox factors	ACIAD2103	B
+Redox factors	ACIAD2244	A
+Redox factors	ACIAD2892	A
+Redox factors	ACIAD3037	A
+Redox factors	ACIAD3121	B
+Redox factors	ACIAD3140	B
+dNTP synthesis	ACIAD0246	B
+dNTP synthesis	ACIAD0515	A
+dNTP synthesis	ACIAD0722	A
+dNTP synthesis	ACIAD0724	A
+dNTP synthesis	ACIAD0901	B
+dNTP synthesis	ACIAD2588	B
+Purine synthesis	ACIAD0151	A
+Purine synthesis	ACIAD0505	B
+Purine synthesis	ACIAD0556	B
+Purine synthesis	ACIAD1105	B
+Purine synthesis	ACIAD1219	A
+Purine synthesis	ACIAD1258	A
+Purine synthesis	ACIAD1323	A
+Purine synthesis	ACIAD2078	B
+Purine synthesis	ACIAD2447	A
+Purine synthesis	ACIAD2448	A
+Purine synthesis	ACIAD2612	A
+Purine synthesis	ACIAD2634	A
+Purine synthesis	ACIAD2635	B
+Purine synthesis	ACIAD2907	B
+Purine synthesis	ACIAD3324	B
+Purine synthesis	ACIAD3503	A
+Purine synthesis	ACIAD3587	A
+Purine synthesis	ACIAD3658	A
+Purine synthesis	ACIAD3659	A
+Pyrimidine synthesis	ACIAD0556	B
+Pyrimidine synthesis	ACIAD1150	A
+Pyrimidine synthesis	ACIAD1270	A
+Pyrimidine synthesis	ACIAD1271	A
+Pyrimidine synthesis	ACIAD1321	A
+Pyrimidine synthesis	ACIAD1372	A
+Pyrimidine synthesis	ACIAD2003	A
+Pyrimidine synthesis	ACIAD2341	A
+Pyrimidine synthesis	ACIAD2348	A
+Pyrimidine synthesis	ACIAD2860	B
+Pyrimidine synthesis	ACIAD2861	B
+Pyrimidine synthesis	ACIAD3525	A
+DNA replication	ACIAD0001	B
+DNA replication	ACIAD0002	A
+DNA replication	ACIAD0004	B
+DNA replication	ACIAD0234	B
+DNA replication	ACIAD0252	B
+DNA replication	ACIAD0266	D
+DNA replication	ACIAD0352	B
+DNA replication	ACIAD0409	D
+DNA replication	ACIAD0493	B
+DNA replication	ACIAD0848	B
+DNA replication	ACIAD0900	B
+DNA replication	ACIAD1137	A
+DNA replication	ACIAD1248	B
+DNA replication	ACIAD1326	A
+DNA replication	ACIAD1408	B
+DNA replication	ACIAD1970	A
+DNA replication	ACIAD2041	B
+DNA replication	ACIAD2089	A
+DNA replication	ACIAD2361	A
+DNA replication	ACIAD2433	B
+DNA replication	ACIAD2614	B
+DNA replication	ACIAD2615	B
+DNA replication	ACIAD2632	D
+DNA replication	ACIAD2652	B
+DNA replication	ACIAD2657	D
+DNA replication	ACIAD2899	B
+DNA replication	ACIAD3030	B
+DNA replication	ACIAD3108	A
+DNA replication	ACIAD3449	B
+DNA replication	ACIAD3544	B
+CRISPR	ACIAD2477	B
+CRISPR	ACIAD2480	A
+CRISPR	ACIAD2481	A
+CRISPR	ACIAD2482	A
+CRISPR	ACIAD2483	A
+CRISPR	ACIAD2484	B
+Ribosomal proteins	ACIAD0302	A
+Ribosomal proteins	ACIAD0304	A
+Ribosomal proteins	ACIAD0305	A
+Ribosomal proteins	ACIAD0306	A
+Ribosomal proteins	ACIAD0401	A
+Ribosomal proteins	ACIAD0425	B
+Ribosomal proteins	ACIAD0501	A
+Ribosomal proteins	ACIAD0502	A
+Ribosomal proteins	ACIAD0869	A
+Ribosomal proteins	ACIAD0881	A
+Ribosomal proteins	ACIAD0883	A
+Ribosomal proteins	ACIAD1331	A
+Ribosomal proteins	ACIAD1389	A
+Ribosomal proteins	ACIAD2029	B
+Ribosomal proteins	ACIAD2210	A
+Ribosomal proteins	ACIAD2269	A
+Ribosomal proteins	ACIAD2347	A
+Ribosomal proteins	ACIAD2430	A
+Ribosomal proteins	ACIAD2431	A
+Ribosomal proteins	ACIAD2432	B
+Ribosomal proteins	ACIAD2443	B
+Ribosomal proteins	ACIAD2846	B
+Ribosomal proteins	ACIAD2908	A
+Ribosomal proteins	ACIAD2938	A
+Ribosomal proteins	ACIAD2939	A
+Ribosomal proteins	ACIAD3012	A
+Ribosomal proteins	ACIAD3013	A
+Ribosomal proteins	ACIAD3046	A
+Ribosomal proteins	ACIAD3047	A
+Ribosomal proteins	ACIAD3193	A
+Ribosomal proteins	ACIAD3195	A
+Ribosomal proteins	ACIAD3196	A
+Ribosomal proteins	ACIAD3197	A
+Ribosomal proteins	ACIAD3198	A
+Ribosomal proteins	ACIAD3200	A
+Ribosomal proteins	ACIAD3201	A
+Ribosomal proteins	ACIAD3202	A
+Ribosomal proteins	ACIAD3203	A
+Ribosomal proteins	ACIAD3204	A
+Ribosomal proteins	ACIAD3205	A
+Ribosomal proteins	ACIAD3206	A
+Ribosomal proteins	ACIAD3207	A
+Ribosomal proteins	ACIAD3208	A
+Ribosomal proteins	ACIAD3209	A
+Ribosomal proteins	ACIAD3210	A
+Ribosomal proteins	ACIAD3211	A
+Ribosomal proteins	ACIAD3212	A
+Ribosomal proteins	ACIAD3213	A
+Ribosomal proteins	ACIAD3214	A
+Ribosomal proteins	ACIAD3215	A
+Ribosomal proteins	ACIAD3216	A
+Ribosomal proteins	ACIAD3217	A
+Ribosomal proteins	ACIAD3218	A
+Ribosomal proteins	ACIAD3219	A
+Ribosomal proteins	ACIAD3220	A
+Ribosomal proteins	ACIAD3310	A
+Ribosomal proteins	ACIAD3313	A
+Ribosomal proteins	ACIAD3684	A
+AA-tRNA Synthetases	ACIAD0013	A
+AA-tRNA Synthetases	ACIAD0022	A
+AA-tRNA Synthetases	ACIAD0164	A
+AA-tRNA Synthetases	ACIAD0272	B
+AA-tRNA Synthetases	ACIAD0562	A
+AA-tRNA Synthetases	ACIAD0609	A
+AA-tRNA Synthetases	ACIAD0768	A
+AA-tRNA Synthetases	ACIAD0782	A
+AA-tRNA Synthetases	ACIAD1069	A
+AA-tRNA Synthetases	ACIAD1253	A
+AA-tRNA Synthetases	ACIAD1481	A
+AA-tRNA Synthetases	ACIAD1920	B
+AA-tRNA Synthetases	ACIAD2871	A
+AA-tRNA Synthetases	ACIAD2935	A
+AA-tRNA Synthetases	ACIAD2950	A
+AA-tRNA Synthetases	ACIAD3034	B
+AA-tRNA Synthetases	ACIAD3041	A
+AA-tRNA Synthetases	ACIAD3042	A
+AA-tRNA Synthetases	ACIAD3055	A
+AA-tRNA Synthetases	ACIAD3106	A
+AA-tRNA Synthetases	ACIAD3268	A
+AA-tRNA Synthetases	ACIAD3269	A
+AA-tRNA Synthetases	ACIAD3371	A
+tRNA modification	ACIAD0143	B
+tRNA modification	ACIAD0417	A
+tRNA modification	ACIAD0822	A
+tRNA modification	ACIAD0823	A
+tRNA modification	ACIAD0824	A
+tRNA modification	ACIAD1221	A
+tRNA modification	ACIAD1312	A
+tRNA modification	ACIAD1892	A
+tRNA modification	ACIAD1895	A
+tRNA modification	ACIAD2288	A
+tRNA modification	ACIAD2376	A
+tRNA modification	ACIAD3311	A
+tRNA modification	ACIAD3637	A
+Translation factors	ACIAD0208	B
+Translation factors	ACIAD0299	B
+Translation factors	ACIAD0357	D
+Translation factors	ACIAD0367	B
+Translation factors	ACIAD0369	A
+Translation factors	ACIAD0370	D
+Translation factors	ACIAD0438	B
+Translation factors	ACIAD0442	D
+Translation factors	ACIAD0472	A
+Translation factors	ACIAD0557	D
+Translation factors	ACIAD0565	B
+Translation factors	ACIAD0658	D
+Translation factors	ACIAD0679	D
+Translation factors	ACIAD0701	D
+Translation factors	ACIAD0715	D
+Translation factors	ACIAD0830	D
+Translation factors	ACIAD0861	D
+Translation factors	ACIAD0866	D
+Translation factors	ACIAD0884	A
+Translation factors	ACIAD0885	B
+Translation factors	ACIAD0887	D
+Translation factors	ACIAD1100	D
+Translation factors	ACIAD1113	D
+Translation factors	ACIAD1130	D
+Translation factors	ACIAD1189	D
+Translation factors	ACIAD1203	D
+Translation factors	ACIAD1268	D
+Translation factors	ACIAD1371	D
+Translation factors	ACIAD1373	A
+Translation factors	ACIAD1933	D
+Translation factors	ACIAD2071	D
+Translation factors	ACIAD2206	A
+Translation factors	ACIAD2207	D
+Translation factors	ACIAD2268	A
+Translation factors	ACIAD2284	D
+Translation factors	ACIAD2368	D
+Translation factors	ACIAD2377	D
+Translation factors	ACIAD2380	D
+Translation factors	ACIAD2417	D
+Translation factors	ACIAD2418	A
+Translation factors	ACIAD2561	B
+Translation factors	ACIAD2580	B
+Translation factors	ACIAD2581	B
+Translation factors	ACIAD2666	B
+Translation factors	ACIAD2854	B
+Translation factors	ACIAD2855	D
+Translation factors	ACIAD2894	B
+Translation factors	ACIAD2897	D
+Translation factors	ACIAD2909	B
+Translation factors	ACIAD3005	D
+Translation factors	ACIAD3009	D
+Translation factors	ACIAD3054	A
+Translation factors	ACIAD3057	D
+Translation factors	ACIAD3063	B
+Translation factors	ACIAD3069	D
+Translation factors	ACIAD3076	D
+Translation factors	ACIAD3089	D
+Translation factors	ACIAD3095	D
+Translation factors	ACIAD3119	B
+Translation factors	ACIAD3150	D
+Translation factors	ACIAD3160	B
+Translation factors	ACIAD3312	B
+Translation factors	ACIAD3362	D
+Translation factors	ACIAD3368	D
+Translation factors	ACIAD3498	A
+Translation factors	ACIAD3638	D
+Chaperones	ACIAD0020	B
+Chaperones	ACIAD0045	B
+Chaperones	ACIAD0211	A
+Chaperones	ACIAD0273	B
+Chaperones	ACIAD2079	B
+Chaperones	ACIAD2838	A
+Chaperones	ACIAD2839	A
+Chaperones	ACIAD2853	A
+Chaperones	ACIAD3548	B
+Chaperones	ACIAD3621	B
+Chaperones	ACIAD3652	A
+Chaperones	ACIAD3654	A
+Protein secretion	ACIAD0300	A
+Protein secretion	ACIAD0364	B
+Protein secretion	ACIAD0587	A
+Protein secretion	ACIAD0588	A
+Protein secretion	ACIAD0589	B
+Protein secretion	ACIAD0648	A
+Protein secretion	ACIAD0839	A
+Protein secretion	ACIAD2296	A
+Protein secretion	ACIAD2583	A
+Protein secretion	ACIAD3122	B
+Protein secretion	ACIAD3199	A
+Protein secretion	ACIAD3681	A
+TCA Cycle	ACIAD0538	A
+TCA Cycle	ACIAD1187	A
+TCA Cycle	ACIAD1190	B
+TCA Cycle	ACIAD2395	A
+TCA Cycle	ACIAD2872	B
+TCA Cycle	ACIAD2873	B
+TCA Cycle	ACIAD2874	B
+TCA Cycle	ACIAD2875	A
+TCA Cycle	ACIAD2876	A
+TCA Cycle	ACIAD2879	A
+TCA Cycle	ACIAD2880	A
+TCA Cycle	ACIAD2881	A
+TCA Cycle	ACIAD2882	A
+TCA Cycle	ACIAD2886	A
+TCA Cycle	ACIAD3155	A
+TCA Cycle	ACIAD3189	B
+TCA Cycle	ACIAD3506	A
+TCA Cycle	ACIAD3507	A
+Gluconeogenesis	ACIAD0101	B
+Gluconeogenesis	ACIAD0166	A
+Gluconeogenesis	ACIAD0256	A
+Gluconeogenesis	ACIAD0363	A
+Gluconeogenesis	ACIAD1007	B
+Gluconeogenesis	ACIAD1255	A
+Gluconeogenesis	ACIAD1925	A
+Gluconeogenesis	ACIAD1927	A
+Gluconeogenesis	ACIAD2001	A
+Gluconeogenesis	ACIAD2287	A
+Gluconeogenesis	ACIAD2423	A
+Gluconeogenesis	ACIAD2565	A
+Gluconeogenesis	ACIAD2625	A
+Gluconeogenesis	ACIAD2842	A
+Gluconeogenesis	ACIAD3627	B
+Pentose Phos. Shunt	ACIAD0685	A
+Pentose Phos. Shunt	ACIAD1358	A
+Pentose Phos. Shunt	ACIAD1980	B
+Pentose Phos. Shunt	ACIAD2035	A
+Arginine synthesis	ACIAD0039	A
+Arginine synthesis	ACIAD0283	A
+Arginine synthesis	ACIAD0650	A
+Arginine synthesis	ACIAD0903	A
+Arginine synthesis	ACIAD1151	A
+Arginine synthesis	ACIAD1231	A
+Arginine synthesis	ACIAD1360	A
+Arginine synthesis	ACIAD1366	A
+Arginine synthesis	ACIAD3489	B
+Methionine synthesis	ACIAD0528	B
+Methionine synthesis	ACIAD0529	A
+Methionine synthesis	ACIAD1045	B
+Methionine synthesis	ACIAD2037	B
+Methionine synthesis	ACIAD2314	A
+Methionine synthesis	ACIAD3222	B
+Methionine synthesis	ACIAD3382	B
+Methionine synthesis	ACIAD3523	A
+Methionine synthesis	ACIAD3524	B
+"Ile, Leu, Val synthesis"	ACIAD0463	A
+"Ile, Leu, Val synthesis"	ACIAD0466	A
+"Ile, Leu, Val synthesis"	ACIAD0469	A
+"Ile, Leu, Val synthesis"	ACIAD0530	A
+"Ile, Leu, Val synthesis"	ACIAD0597	A
+"Ile, Leu, Val synthesis"	ACIAD1266	A
+"Ile, Leu, Val synthesis"	ACIAD1357	A
+"Ile, Leu, Val synthesis"	ACIAD3102	A
+"Ile, Leu, Val synthesis"	ACIAD3103	A
+"Ile, Leu, Val synthesis"	ACIAD3104	A
+Tryptophan synthesis	ACIAD0297	A
+Tryptophan synthesis	ACIAD0418	A
+Tryptophan synthesis	ACIAD0635	A
+Tryptophan synthesis	ACIAD0636	A
+Tryptophan synthesis	ACIAD0642	A
+Tryptophan synthesis	ACIAD1713	B
+Tryptophan synthesis	ACIAD1738	A
+Tryptophan synthesis	ACIAD2028	A
+Tryptophan synthesis	ACIAD2461	A
+Tryptophan synthesis	ACIAD2462	A
+Tryptophan synthesis	ACIAD2463	A
+Tryptophan synthesis	ACIAD3353	A
+Tryptophan synthesis	ACIAD3354	A
+Histidine synthesis	ACIAD0380	A
+Histidine synthesis	ACIAD0661	A
+Histidine synthesis	ACIAD0663	A
+Histidine synthesis	ACIAD0664	A
+Histidine synthesis	ACIAD1257	A
+Histidine synthesis	ACIAD3395	A
+Histidine synthesis	ACIAD3396	A
+Histidine synthesis	ACIAD3398	A
+Histidine synthesis	ACIAD3404	A
+Other AA synthesis	ACIAD0112	B
+Other AA synthesis	ACIAD0263	A
+Other AA synthesis	ACIAD0264	A
+Other AA synthesis	ACIAD0479	A
+Other AA synthesis	ACIAD0547	A
+Other AA synthesis	ACIAD0700	B
+Other AA synthesis	ACIAD0833	B
+Other AA synthesis	ACIAD0834	B
+Other AA synthesis	ACIAD1072	B
+Other AA synthesis	ACIAD1073	B
+Other AA synthesis	ACIAD1252	A
+Other AA synthesis	ACIAD1387	B
+Other AA synthesis	ACIAD1662	B
+Other AA synthesis	ACIAD1714	B
+Other AA synthesis	ACIAD1716	B
+Other AA synthesis	ACIAD2087	B
+Other AA synthesis	ACIAD2091	B
+Other AA synthesis	ACIAD2222	A
+Other AA synthesis	ACIAD2223	A
+Other AA synthesis	ACIAD2255	A
+Other AA synthesis	ACIAD2458	A
+Other AA synthesis	ACIAD2560	A
+Other AA synthesis	ACIAD2574	B
+Other AA synthesis	ACIAD2591	B
+Other AA synthesis	ACIAD2594	B
+Other AA synthesis	ACIAD2595	B
+Other AA synthesis	ACIAD2596	B
+Other AA synthesis	ACIAD2647	A
+Other AA synthesis	ACIAD2660	A
+Other AA synthesis	ACIAD2860	B
+Other AA synthesis	ACIAD2861	B
+Other AA synthesis	ACIAD2982	B
+Other AA synthesis	ACIAD3032	A
+Other AA synthesis	ACIAD3071	B
+Other AA synthesis	ACIAD3302	A
+Other AA synthesis	ACIAD3349	A
+Other AA synthesis	ACIAD3350	A
+Other AA synthesis	ACIAD3369	B
+Other AA synthesis	ACIAD3567	A
+Fe-S cluster synthesis	ACIAD0010	A
+Fe-S cluster synthesis	ACIAD1399	A
+Fe-S cluster synthesis	ACIAD1400	A
+Fe-S cluster synthesis	ACIAD1402	A
+Fe-S cluster synthesis	ACIAD1403	A
+Fe-S cluster synthesis	ACIAD1404	A
+Fe-S cluster synthesis	ACIAD1405	B
+Isoprenoid synthesis	ACIAD0044	B
+Isoprenoid synthesis	ACIAD0382	B
+Isoprenoid synthesis	ACIAD0384	B
+Isoprenoid synthesis	ACIAD0561	A
+Isoprenoid synthesis	ACIAD1127	B
+Isoprenoid synthesis	ACIAD1128	B
+Isoprenoid synthesis	ACIAD1374	A
+Isoprenoid synthesis	ACIAD1376	A
+Isoprenoid synthesis	ACIAD1996	A
+Isoprenoid synthesis	ACIAD1999	A
+Isoprenoid synthesis	ACIAD2405	B
+Isoprenoid synthesis	ACIAD2455	B
+Isoprenoid synthesis	ACIAD2456	B
+Isoprenoid synthesis	ACIAD2903	A
+Isoprenoid synthesis	ACIAD2940	A
+Isoprenoid synthesis	ACIAD2968	A
+Isoprenoid synthesis	ACIAD3247	A
+Isoprenoid synthesis	ACIAD3322	A
+Riboflavin synthesis	ACIAD0023	A
+Riboflavin synthesis	ACIAD0247	A
+Riboflavin synthesis	ACIAD0249	A
+Riboflavin synthesis	ACIAD2913	B
+Riboflavin synthesis	ACIAD3249	A
+Riboflavin synthesis	ACIAD3570	B
+Riboflavin synthesis	ACIAD3571	A
+Nicotinamide synthesis	ACIAD0062	A
+Nicotinamide synthesis	ACIAD0651	A
+Nicotinamide synthesis	ACIAD2231	A
+Nicotinamide synthesis	ACIAD2587	A
+Nicotinamide synthesis	ACIAD2606	B
+Nicotinamide synthesis	ACIAD2888	A
+Heme synthesis	ACIAD0286	A
+Heme synthesis	ACIAD0287	A
+Heme synthesis	ACIAD0923	A
+Heme synthesis	ACIAD1201	A
+Heme synthesis	ACIAD2474	A
+Heme synthesis	ACIAD2900	A
+Heme synthesis	ACIAD2934	B
+Heme synthesis	ACIAD3250	A
+Heme synthesis	ACIAD3255	A
+Biotin synthesis	ACIAD0841	A
+Biotin synthesis	ACIAD0855	A
+Biotin synthesis	ACIAD0856	A
+Biotin synthesis	ACIAD0857	A
+Biotin synthesis	ACIAD0858	A
+Biotin synthesis	ACIAD0859	A
+Biotin synthesis	ACIAD2045	A
+Thiamine synthesis	ACIAD0276	A
+Thiamine synthesis	ACIAD0875	A
+Thiamine synthesis	ACIAD1200	A
+Thiamine synthesis	ACIAD1308	A
+Thiamine synthesis	ACIAD1309	A
+Thiamine synthesis	ACIAD2011	B
+Thiamine synthesis	ACIAD3119	B
+Thiamine synthesis	ACIAD3573	A
+Folate synthesis	ACIAD0514	A
+Folate synthesis	ACIAD0644	A
+Folate synthesis	ACIAD0665	B
+Folate synthesis	ACIAD2283	B
+Folate synthesis	ACIAD2407	A
+Folate synthesis	ACIAD2408	A
+Folate synthesis	ACIAD2470	A
+Folate synthesis	ACIAD2590	B
+Folate synthesis	ACIAD2847	A
+Folate synthesis	ACIAD2852	A
+Folate synthesis	ACIAD3062	A
+Coenzyme A synthesis	ACIAD0359	A
+Coenzyme A synthesis	ACIAD0840	A
+Coenzyme A synthesis	ACIAD2893	A
+Coenzyme A synthesis	ACIAD2911	A
+Coenzyme A synthesis	ACIAD3060	A
+Coenzyme A synthesis	ACIAD3061	A
+Coenzyme A synthesis	ACIAD3125	A
+Pyridoxine synthesis	ACIAD2577	A
+Pyridoxine synthesis	ACIAD2667	A
+Pyridoxine synthesis	ACIAD3010	A
+Pyridoxine synthesis	ACIAD3501	A
+Sodium efflux	ACIAD0371	A
+Sodium efflux	ACIAD0372	A
+Sodium efflux	ACIAD0373	A
+Sodium efflux	ACIAD0374	A
+Sodium efflux	ACIAD0375	A
+Sodium efflux	ACIAD0376	A
+Transcription	ACIAD0301	B
+Transcription	ACIAD0307	A
+Transcription	ACIAD0308	A
+Transcription	ACIAD0368	B
+Transcription	ACIAD0657	B
+Transcription	ACIAD1311	B
+Transcription	ACIAD1395	B
+Transcription	ACIAD2373	B
+Transcription	ACIAD2814	B
+Transcription	ACIAD2862	B
+Transcription	ACIAD2925	A
+Transcription	ACIAD3038	B
+Transcription	ACIAD3194	A
+Transcription	ACIAD3325	B
+Transcription	ACIAD3572	B
+General regulators	ACIAD0244	A
+General regulators	ACIAD0657	A
+General regulators	ACIAD0703	B
+General regulators	ACIAD0726	B
+General regulators	ACIAD0727	A
+General regulators	ACIAD0746	B
+General regulators	ACIAD0910	A
+General regulators	ACIAD0985	B
+General regulators	ACIAD1063	B
+General regulators	ACIAD1082	B
+General regulators	ACIAD1311	A
+General regulators	ACIAD1368	A
+General regulators	ACIAD1369	B
+General regulators	ACIAD1469	B
+General regulators	ACIAD1519	B
+General regulators	ACIAD1624	B
+General regulators	ACIAD1802	B
+General regulators	ACIAD2227	B
+General regulators	ACIAD2346	A
+General regulators	ACIAD2384	B
+General regulators	ACIAD2446	B
+General regulators	ACIAD2597	B
+General regulators	ACIAD2627	B
+General regulators	ACIAD2986	B
+General regulators	ACIAD3019	A
+General regulators	ACIAD3020	A
+General regulators	ACIAD3040	A
+General regulators	ACIAD3068	B
+General regulators	ACIAD3240	B
+General regulators	ACIAD3326	A
+General regulators	ACIAD3388	A
+General regulators	ACIAD3389	B
+LPS synthesis	ACIAD0072	B
+LPS synthesis	ACIAD0073	B
+LPS synthesis	ACIAD0074	B
+LPS synthesis	ACIAD0075	B
+LPS synthesis	ACIAD0081	B
+LPS synthesis	ACIAD0086	B
+LPS synthesis	ACIAD0337	B
+LPS synthesis	ACIAD0484	B
+LPS synthesis	ACIAD1380	A
+LPS synthesis	ACIAD1381	A
+LPS synthesis	ACIAD1382	A
+LPS synthesis	ACIAD1383	B
+LPS synthesis	ACIAD1482	A
+LPS synthesis	ACIAD1483	A
+LPS synthesis	ACIAD1922	A
+LPS synthesis	ACIAD2002	A
+LPS synthesis	ACIAD2324	A
+LPS synthesis	ACIAD2362	A
+LPS synthesis	ACIAD2363	A
+LPS synthesis	ACIAD2638	A
+LPS synthesis	ACIAD3479	A
+LPS synthesis	ACIAD3502	B
+LPS synthesis	ACIAD3510	A
+LPS synthesis	ACIAD3575	B
+LPS synthesis	ACIAD3576	B
+LPS transport	ACIAD0254	A
+LPS transport	ACIAD0255	A
+LPS transport	ACIAD1484	A
+LPS transport	ACIAD1485	A
+LPS transport	ACIAD1486	A
+LPS transport	ACIAD2365	B
+LPS transport	ACIAD2371	A
+LPS transport	ACIAD3107	B
+Fatty acid synthesis	ACIAD0585	B
+Fatty acid synthesis	ACIAD0643	A
+Fatty acid synthesis	ACIAD0870	A
+Fatty acid synthesis	ACIAD0871	A
+Fatty acid synthesis	ACIAD0872	A
+Fatty acid synthesis	ACIAD0879	A
+Fatty acid synthesis	ACIAD1736	A
+Fatty acid synthesis	ACIAD1737	A
+Fatty acid synthesis	ACIAD3035	A
+Fatty acid synthesis	ACIAD3116	A
+Phospholipid synthesis	ACIAD0342	A
+Phospholipid synthesis	ACIAD1317	A
+Phospholipid synthesis	ACIAD1375	A
+Phospholipid synthesis	ACIAD3149	A
+Phospholipid synthesis	ACIAD3232	A
+Phospholipid synthesis	ACIAD3560	A
+Phospholipid synthesis	ACIAD3574	B
+PG synthesis	ACIAD0064	A
+PG synthesis	ACIAD0262	B
+PG synthesis	ACIAD0270	A
+PG synthesis	ACIAD0660	A
+PG synthesis	ACIAD0791	B
+PG synthesis	ACIAD1945	A
+PG synthesis	ACIAD2599	B
+PG synthesis	ACIAD2659	B
+PG synthesis	ACIAD3257	A
+PG synthesis	ACIAD3363	A
+PG synthesis	ACIAD3364	A
+PG synthesis	ACIAD3365	A
+PG synthesis	ACIAD3502	B
+PG synthesis	ACIAD3515	A
+PG synthesis	ACIAD3516	A
+PG synthesis	ACIAD3517	A
+PG synthesis	ACIAD3575	B
+PG synthesis	ACIAD3576	B
+PG synthesis	ACIAD3585	B
+PG synthesis	ACIAD3619	B
+OMP localization	ACIAD1378	A
+OMP localization	ACIAD2402	A
+OMP localization	ACIAD2403	A
+OMP localization	ACIAD2898	A
+Lipoprotein production	ACIAD0021	A
+Lipoprotein production	ACIAD0415	A
+Lipoprotein production	ACIAD0518	A
+Lipoprotein production	ACIAD2640	A
+Lipoprotein production	ACIAD2641	A
+Lipoprotein production	ACIAD2902	B
+Lipoprotein production	ACIAD2937	A
+Cell division	ACIAD0163	A
+Cell division	ACIAD0271	A
+Cell division	ACIAD0772	B
+Cell division	ACIAD0825	B
+Cell division	ACIAD0826	B
+Cell division	ACIAD0828	B
+Cell division	ACIAD0847	B
+Cell division	ACIAD0891	A
+Cell division	ACIAD0893	B
+Cell division	ACIAD0894	B
+Cell division	ACIAD0895	B
+Cell division	ACIAD1101	B
+Cell division	ACIAD1123	B
+Cell division	ACIAD2000	B
+Cell division	ACIAD2263	B
+Cell division	ACIAD2265	B
+Cell division	ACIAD3132	B
+Cell division	ACIAD3366	A
+Cell division	ACIAD3367	A
+Cell division	ACIAD3511	A
+Cell division	ACIAD3512	A
+Cell division	ACIAD3514	A
+Unknown function	ACIAD0041	A
+Unknown function	ACIAD0169	A
+Unknown function	ACIAD0383	A
+Unknown function	ACIAD0508	A
+Unknown function	ACIAD0598	A
+Unknown function	ACIAD0645	A
+Unknown function	ACIAD0659	A
+Unknown function	ACIAD0714	A
+Unknown function	ACIAD0868	A
+Unknown function	ACIAD0878	A
+Unknown function	ACIAD0907	A
+Unknown function	ACIAD0941	A
+Unknown function	ACIAD0944	A
+Unknown function	ACIAD1893	A
+Unknown function	ACIAD1894	A
+Unknown function	ACIAD2010	A
+Unknown function	ACIAD2193	A
+Unknown function	ACIAD2230	A
+Unknown function	ACIAD2926	A
+Unknown function	ACIAD2981	A
+Unknown function	ACIAD3039	A
+Unknown function	ACIAD3280	A
+Unknown function	ACIAD3327	A
+Unknown function	ACIAD3524	A
+Unknown function	ACIAD3568	A
+Succinate dehydrogenase	ACIAD2879	A
+Succinate dehydrogenase	ACIAD2880	A
+Succinate dehydrogenase	ACIAD2881	A
+Succinate dehydrogenase	ACIAD2882	A
+Succinate dehydrogenase	ACIAD3189	B
+Ubiqinone synthesis	ACIAD0044	A
+Ubiqinone synthesis	ACIAD0382	B
+Ubiqinone synthesis	ACIAD0384	A
+Ubiqinone synthesis	ACIAD1127	A
+Ubiqinone synthesis	ACIAD1128	B
+Ubiqinone synthesis	ACIAD2405	A
+Ubiqinone synthesis	ACIAD2455	A
+Ubiqinone synthesis	ACIAD2456	B
+Other cofactor synthesis	ACIAD1015	B
+Other cofactor synthesis	ACIAD1121	B
+Other cofactor synthesis	ACIAD2275	A
+Other cofactor synthesis	ACIAD2927	A

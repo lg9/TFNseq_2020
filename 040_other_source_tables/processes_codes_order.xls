@@ -1,0 +1,51 @@
+Code	Process	SubProcess	Order_Incl	Plot	Color
+01_	(standalone)	DNA replication	9	TRUE	#C7C7C7
+02_	(standalone)	Cell division	46	TRUE	#C7C7C7
+03_	Transcription	Transcription	37	TRUE	#C7C7C7
+04a	Protein synthesis	Ribosomal proteins	11	TRUE	#0072B2
+04b	Protein synthesis	AA-tRNA Synthetases	12	TRUE	#0072B2
+04c	Protein synthesis	tRNA modification	13	FALSE	#0072B2
+04z	Protein synthesis	Translation factors	14	FALSE	#0072B2
+05a	Energy production	ATP synthase	1	TRUE	#D55E00
+05b	Energy production	NADH dehydrogenase	2	TRUE	#D55E00
+05c	Energy production	Succinate dehydrogenase	NA	FALSE	#D55E00
+05d	Energy production	Cytochrome oxidase	3	TRUE	#D55E00
+05e	(standalone)	Redox factors	5	FALSE	#C7C7C7
+05z	Energy production	Other energy production	4	FALSE	#D55E00
+06a	Central carbon met.	TCA Cycle	17	TRUE	#56B4E9
+06b	Central carbon met.	Gluconeogenesis	18	FALSE	#56B4E9
+06c	Central carbon met.	Pentose Phos. Shunt	19	FALSE	#56B4E9
+07a	Nucleotide synthesis	dNTP synthesis	6	TRUE	#009E73
+07b	Nucleotide synthesis	Purine synthesis	7	TRUE	#009E73
+07c	Nucleotide synthesis	Pyrimidine synthesis	8	TRUE	#009E73
+08a	(standalone)	Fatty acid synthesis	41	TRUE	#C7C7C7
+08b	(standalone)	Phospholipid synthesis	42	TRUE	#C7C7C7
+09_	(standalone)	PG synthesis	43	TRUE	#C7C7C7
+10a	OM proteins	OMP localization	44	TRUE	#F0E542
+10b	OM proteins	Lipoprotein production	45	TRUE	#F0E542
+11a	Lipopolysaccharide	LPS synthesis	39	TRUE	#945ED2
+11b	Lipopolysaccharide	LPS transport	40	TRUE	#945ED2
+12_	(standalone)	Protein secretion	16	TRUE	#C7C7C7
+13_	Protein synthesis	Chaperones	15	FALSE	#C7C7C7
+14a	Cofactor synthesis	Fe-S cluster synthesis	26	FALSE	#E69F00
+14b	Cofactor synthesis	Folate synthesis	33	FALSE	#E69F00
+14c	Cofactor synthesis	Biotin synthesis	31	TRUE	#E69F00
+14d	Cofactor synthesis	Heme synthesis	30	FALSE	#E69F00
+14e	Cofactor synthesis	Ubiqinone synthesis	NA	FALSE	#E69F00
+14f	Cofactor synthesis	Thiamine synthesis	32	TRUE	#E69F00
+14g	Cofactor synthesis	Riboflavin synthesis	28	TRUE	#E69F00
+14h	Cofactor synthesis	Pyridoxine synthesis	35	FALSE	#E69F00
+14i	Cofactor synthesis	Nicotinamide synthesis	29	FALSE	#E69F00
+14j	Cofactor synthesis	Coenzyme A synthesis	34	TRUE	#E69F00
+14k	Cofactor synthesis	Isoprenoid synthesis	27	FALSE	#E69F00
+14z	Cofactor synthesis	Other cofactor synthesis	NA	FALSE	#E69F00
+15a	Amino acid synthesis	Arginine synthesis	20	TRUE	#CC79A7
+15b	Amino acid synthesis	Methionine synthesis	21	TRUE	#CC79A7
+15c	Amino acid synthesis	"Ile, Leu, Val synthesis"	22	TRUE	#CC79A7
+15d	Amino acid synthesis	Tryptophan synthesis	23	TRUE	#CC79A7
+15e	Amino acid synthesis	Histidine synthesis	24	TRUE	#CC79A7
+15z	Amino acid synthesis	Other AA synthesis	25	FALSE	#CC79A7
+16_	Transcription	General regulators	38	FALSE	#C7C7C7
+17a	(standalone)	Sodium efflux	36	TRUE	#C7C7C7
+19_	(standalone)	Unknown function	47	TRUE	#C7C7C7
+20_	(standalone)	CRISPR	10	FALSE	#N/A
